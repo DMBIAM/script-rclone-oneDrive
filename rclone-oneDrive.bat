@@ -7,9 +7,9 @@
 
 :: === CONFIGURACIÓN PERSONALIZADA ===
 set REMOTE_NAME=remoteOneDrive
-set DEST_DIR=D:\InfoWeb-OneDrive\oneDrive
-set LOG_DIR=D:\InfoWeb-OneDrive\logs
-set BACKUP_DIR=D:\InfoWeb-OneDrive\_incrementales\%date:~-4,4%-%date:~-10,2%-%date:~-7,2%
+set DEST_DIR=D:\Bkp-OneDrive\oneDrive
+set LOG_DIR=D:\Bkp-OneDrive\logs
+set BACKUP_DIR=D:\Bkp-OneDrive\_incrementales\%date:~-4,4%-%date:~-10,2%-%date:~-7,2%
 
 
 
